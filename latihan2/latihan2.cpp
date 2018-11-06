@@ -12,7 +12,7 @@ int main(){
 
     cout << "                   Selamat datang \n" ;
     cout << "                         di \n" ;
-    cout << "                   Fresh to Fresh" ;
+    cout << "                   Toko Marry" ;
     cout << " \n " ;
     cout << " \n " ;
     cout << "--------------------------------------------------------- \n" ;
